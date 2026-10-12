@@ -16,7 +16,7 @@ main 브랜치에는 저장소 설명과 최종 결과물만 두고, 실제 개�
 | `main` | 저장소 설명, 프로젝트별 README, 최종 APK | `apk/` |
 | `bium` | 비움 개발 | `front/`, `back/` |
 | `milquest` | 밀퀘 개발 | `front/`, `back/`, `ai/` |
-| `consensus` | 교집합 개발 (바이브코딩) | 따로 나누지 않음 |
+| `overlab` | 교집합 개발 (바이브코딩) | 따로 나누지 않음 |
 
 ## 작업 규칙
 
